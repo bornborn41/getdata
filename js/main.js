@@ -8,5 +8,6 @@ async function populate() {
 
     populateHeader(superHeroes);
     populateHeroes(superHeroes);
+    console(superHeroes);
 
 }
